@@ -2,7 +2,7 @@
 
 ## Author
 **Saumya Kumari**  
-Computer Engineering Student
+
 
 ## Project Title
 **AI Shopping Assistant — Personalized Natural Language Shopping & Reorder System**
