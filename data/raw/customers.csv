@@ -1,0 +1,1001 @@
+customer_id,age,gender,city,membership,join_date
+1,26,Male,Dallas,Silver,2022-10-11
+2,66,Female,Seattle,Platinum,2022-02-16
+3,68,Male,New York,Gold,2020-02-28
+4,42,Female,Miami,Silver,2023-11-26
+5,46,Female,Chicago,Platinum,2025-04-19
+6,24,Female,New York,Silver,2020-02-22
+7,59,Male,Seattle,Platinum,2021-03-19
+8,45,Male,Miami,Silver,2024-04-13
+9,46,Female,Miami,Silver,2021-12-08
+10,32,Male,Seattle,Gold,2025-03-12
+11,19,Female,Miami,Platinum,2020-07-23
+12,29,Female,New York,Platinum,2021-11-12
+13,64,Female,Miami,Platinum,2021-01-23
+14,37,Female,Miami,Gold,2024-09-29
+15,50,Female,Miami,Silver,2022-09-10
+16,33,Female,Seattle,Platinum,2020-12-20
+17,41,Female,New York,Gold,2023-09-21
+18,50,Male,Chicago,Platinum,2024-09-16
+19,43,Female,Seattle,Platinum,2020-03-01
+20,48,Male,Dallas,Platinum,2024-10-03
+21,57,Female,Chicago,Silver,2022-10-25
+22,32,Male,Chicago,Platinum,2025-02-27
+23,53,Male,Seattle,Platinum,2021-12-05
+24,54,Female,Seattle,Gold,2023-09-12
+25,53,Male,Seattle,Platinum,2022-11-15
+26,69,Male,Miami,Platinum,2021-02-24
+27,45,Male,Seattle,Gold,2023-03-13
+28,53,Male,Miami,Gold,2022-09-20
+29,70,Female,Seattle,Gold,2020-01-04
+30,52,Female,Seattle,Platinum,2020-02-27
+31,69,Male,Chicago,Platinum,2023-04-11
+32,29,Male,Miami,Gold,2020-03-07
+33,61,Male,New York,Silver,2022-07-16
+34,18,Female,Chicago,Gold,2020-08-12
+35,69,Male,Dallas,Gold,2020-05-22
+36,28,Male,Dallas,Platinum,2025-05-03
+37,28,Female,Dallas,Gold,2023-12-09
+38,38,Female,Seattle,Silver,2020-02-18
+39,37,Female,Dallas,Gold,2024-06-18
+40,30,Female,New York,Gold,2025-01-16
+41,64,Male,Miami,Gold,2024-07-31
+42,19,Male,New York,Gold,2020-10-26
+43,20,Male,Seattle,Platinum,2022-11-02
+44,61,Female,Miami,Silver,2025-06-23
+45,58,Female,Chicago,Platinum,2023-08-21
+46,19,Female,Miami,Gold,2023-09-13
+47,58,Female,New York,Platinum,2021-09-03
+48,26,Male,New York,Gold,2020-05-24
+49,22,Female,Dallas,Platinum,2020-11-20
+50,44,Female,Chicago,Silver,2023-02-22
+51,20,Male,Miami,Gold,2020-12-17
+52,70,Male,Seattle,Silver,2021-12-11
+53,24,Male,Miami,Platinum,2025-01-10
+54,45,Male,Seattle,Silver,2025-04-04
+55,60,Female,Dallas,Platinum,2022-10-20
+56,19,Female,Miami,Gold,2025-01-16
+57,36,Male,Chicago,Silver,2024-10-22
+58,38,Male,Dallas,Gold,2021-03-12
+59,35,Male,Seattle,Platinum,2021-12-05
+60,61,Female,Miami,Silver,2020-05-13
+61,64,Male,New York,Silver,2020-12-13
+62,28,Male,Dallas,Gold,2023-05-14
+63,50,Female,Dallas,Gold,2021-11-27
+64,25,Female,Chicago,Platinum,2024-05-15
+65,63,Female,Chicago,Platinum,2023-02-02
+66,67,Male,Dallas,Silver,2022-04-12
+67,22,Female,Chicago,Silver,2021-11-29
+68,25,Female,New York,Platinum,2023-01-31
+69,32,Male,Dallas,Gold,2024-12-29
+70,36,Male,Seattle,Gold,2020-08-08
+71,68,Male,Dallas,Silver,2023-06-10
+72,60,Male,New York,Gold,2020-08-23
+73,70,Male,Chicago,Silver,2024-05-27
+74,55,Female,Chicago,Silver,2022-07-12
+75,28,Male,Chicago,Platinum,2024-09-26
+76,24,Female,Seattle,Platinum,2025-02-05
+77,70,Female,Miami,Gold,2023-12-28
+78,48,Female,New York,Silver,2023-08-28
+79,38,Male,New York,Silver,2024-05-30
+80,36,Female,Seattle,Gold,2021-10-03
+81,43,Male,New York,Gold,2025-06-09
+82,56,Female,New York,Gold,2021-03-16
+83,68,Female,Dallas,Gold,2021-01-10
+84,52,Male,Dallas,Silver,2021-05-19
+85,41,Male,Dallas,Silver,2024-03-22
+86,46,Male,Miami,Platinum,2021-11-25
+87,32,Female,Dallas,Silver,2021-11-01
+88,29,Female,Miami,Gold,2021-05-18
+89,39,Male,Miami,Platinum,2023-03-31
+90,69,Male,Chicago,Silver,2020-02-11
+91,69,Male,Seattle,Silver,2021-07-02
+92,53,Male,New York,Silver,2023-07-25
+93,18,Female,Dallas,Gold,2022-08-18
+94,27,Male,Miami,Gold,2020-06-06
+95,50,Male,Chicago,Silver,2020-10-16
+96,70,Female,Dallas,Silver,2023-12-23
+97,50,Female,Chicago,Silver,2020-10-17
+98,52,Male,Dallas,Platinum,2024-07-04
+99,61,Male,Chicago,Gold,2022-06-05
+100,52,Male,New York,Platinum,2024-10-31
+101,60,Male,Dallas,Silver,2023-10-28
+102,46,Female,Miami,Gold,2023-01-13
+103,46,Female,New York,Gold,2024-09-08
+104,39,Male,Dallas,Gold,2020-02-19
+105,68,Female,Miami,Silver,2020-05-07
+106,62,Female,Miami,Silver,2023-04-30
+107,26,Male,Dallas,Gold,2022-03-25
+108,54,Female,Chicago,Platinum,2020-07-01
+109,32,Female,New York,Silver,2022-12-18
+110,38,Female,Chicago,Silver,2021-10-02
+111,49,Female,Chicago,Platinum,2022-04-24
+112,39,Female,Chicago,Silver,2025-03-02
+113,22,Female,Chicago,Platinum,2024-04-17
+114,68,Male,Dallas,Gold,2023-11-19
+115,37,Female,Chicago,Platinum,2023-12-07
+116,65,Female,Miami,Silver,2024-10-19
+117,25,Female,Chicago,Silver,2021-05-28
+118,45,Male,Miami,Platinum,2024-03-31
+119,68,Male,Seattle,Platinum,2022-03-17
+120,63,Female,Seattle,Platinum,2024-09-27
+121,28,Male,Miami,Silver,2024-07-12
+122,34,Male,Dallas,Platinum,2025-02-12
+123,23,Male,Miami,Platinum,2023-11-07
+124,62,Male,Seattle,Silver,2025-06-12
+125,42,Female,Seattle,Silver,2025-02-06
+126,38,Female,Chicago,Platinum,2025-02-04
+127,49,Male,New York,Gold,2023-05-15
+128,52,Female,New York,Platinum,2021-08-28
+129,35,Male,Seattle,Platinum,2023-02-19
+130,18,Male,Miami,Gold,2023-03-31
+131,19,Male,Miami,Silver,2024-09-06
+132,34,Male,Chicago,Gold,2020-10-30
+133,52,Male,Dallas,Gold,2023-04-14
+134,66,Female,Seattle,Silver,2023-01-21
+135,40,Female,Seattle,Silver,2024-04-24
+136,31,Female,Chicago,Gold,2024-07-18
+137,24,Male,New York,Platinum,2024-03-10
+138,18,Female,Chicago,Silver,2022-10-21
+139,41,Female,Seattle,Platinum,2023-10-19
+140,40,Female,New York,Silver,2022-06-24
+141,63,Female,Dallas,Gold,2023-01-09
+142,43,Female,Miami,Gold,2020-08-19
+143,59,Female,Seattle,Silver,2023-02-14
+144,18,Female,Miami,Platinum,2024-12-10
+145,65,Male,Seattle,Platinum,2024-09-05
+146,51,Female,Dallas,Platinum,2020-12-14
+147,46,Male,Dallas,Platinum,2020-01-08
+148,61,Female,Miami,Gold,2025-06-10
+149,43,Female,Miami,Platinum,2025-06-18
+150,64,Male,Seattle,Platinum,2021-05-22
+151,58,Female,New York,Gold,2024-01-17
+152,58,Male,Seattle,Gold,2024-09-29
+153,29,Male,Miami,Silver,2021-12-16
+154,34,Female,Miami,Gold,2020-11-07
+155,47,Female,Seattle,Silver,2022-08-14
+156,50,Male,Dallas,Platinum,2020-07-20
+157,65,Female,New York,Gold,2020-05-17
+158,60,Female,New York,Silver,2022-11-04
+159,63,Male,New York,Gold,2023-07-26
+160,62,Female,Miami,Gold,2021-03-03
+161,51,Male,Chicago,Gold,2021-07-05
+162,22,Male,Miami,Platinum,2022-01-24
+163,47,Male,Chicago,Gold,2023-08-30
+164,65,Female,Dallas,Platinum,2024-02-24
+165,32,Female,Miami,Gold,2020-12-18
+166,48,Female,Miami,Gold,2024-01-06
+167,32,Female,Miami,Platinum,2021-05-15
+168,60,Male,Miami,Gold,2021-10-10
+169,45,Male,Dallas,Silver,2020-05-28
+170,58,Male,Miami,Gold,2023-04-05
+171,64,Male,Miami,Gold,2022-07-29
+172,51,Male,Chicago,Silver,2025-01-04
+173,63,Female,Dallas,Gold,2024-03-18
+174,43,Male,New York,Platinum,2021-02-26
+175,63,Female,New York,Silver,2021-04-11
+176,43,Female,Seattle,Silver,2025-05-10
+177,29,Male,New York,Platinum,2020-02-17
+178,66,Male,New York,Gold,2023-12-12
+179,51,Female,Dallas,Platinum,2024-09-11
+180,35,Male,Miami,Platinum,2020-12-19
+181,24,Male,Seattle,Silver,2022-10-10
+182,46,Female,Chicago,Silver,2021-04-27
+183,70,Female,Seattle,Platinum,2023-04-02
+184,42,Male,Seattle,Platinum,2021-06-12
+185,39,Female,Miami,Silver,2025-02-05
+186,31,Male,New York,Silver,2024-06-21
+187,18,Female,Dallas,Gold,2024-10-02
+188,55,Female,Chicago,Gold,2020-11-23
+189,70,Male,New York,Silver,2022-03-04
+190,27,Male,Miami,Gold,2021-06-04
+191,26,Male,Seattle,Platinum,2024-09-16
+192,37,Male,New York,Platinum,2020-05-04
+193,51,Male,New York,Gold,2024-05-18
+194,25,Female,New York,Silver,2020-02-26
+195,49,Male,Dallas,Platinum,2024-07-31
+196,30,Female,Seattle,Gold,2023-07-16
+197,35,Female,Chicago,Silver,2020-05-03
+198,55,Male,Dallas,Gold,2023-05-24
+199,62,Male,Dallas,Platinum,2022-04-25
+200,52,Male,Miami,Gold,2025-02-26
+201,60,Male,Dallas,Platinum,2023-06-04
+202,64,Male,Dallas,Silver,2025-06-22
+203,24,Male,New York,Silver,2024-10-16
+204,45,Male,New York,Platinum,2020-07-05
+205,70,Female,Miami,Gold,2020-07-22
+206,38,Male,Chicago,Platinum,2020-03-08
+207,46,Male,Seattle,Platinum,2025-01-14
+208,46,Male,Miami,Gold,2020-07-04
+209,34,Female,New York,Gold,2020-03-11
+210,42,Male,Dallas,Gold,2024-02-14
+211,26,Female,Seattle,Silver,2024-10-18
+212,61,Female,New York,Gold,2024-09-19
+213,33,Male,Dallas,Gold,2022-11-09
+214,68,Female,Miami,Gold,2020-08-02
+215,26,Female,Miami,Platinum,2024-01-13
+216,55,Male,Dallas,Platinum,2020-11-17
+217,30,Female,Seattle,Platinum,2021-10-26
+218,24,Female,Dallas,Silver,2023-03-23
+219,22,Male,Dallas,Platinum,2022-12-28
+220,38,Female,Dallas,Gold,2021-12-23
+221,35,Female,Miami,Platinum,2020-01-18
+222,51,Male,Chicago,Gold,2025-02-15
+223,64,Female,Dallas,Platinum,2020-05-20
+224,46,Female,Seattle,Gold,2025-02-12
+225,41,Female,New York,Platinum,2024-06-29
+226,21,Male,New York,Platinum,2022-10-04
+227,54,Female,Chicago,Platinum,2023-03-21
+228,65,Female,Dallas,Platinum,2022-01-28
+229,43,Female,Seattle,Platinum,2021-11-28
+230,52,Male,New York,Silver,2021-05-27
+231,61,Male,Miami,Silver,2025-01-31
+232,25,Male,Seattle,Platinum,2023-06-23
+233,21,Male,Miami,Platinum,2021-06-28
+234,63,Male,Chicago,Gold,2020-05-16
+235,58,Male,New York,Silver,2023-08-10
+236,29,Female,New York,Platinum,2022-01-23
+237,49,Female,Chicago,Silver,2023-05-09
+238,49,Male,Seattle,Gold,2023-10-15
+239,41,Male,Seattle,Platinum,2020-05-28
+240,70,Female,Seattle,Silver,2020-01-17
+241,65,Female,Miami,Gold,2020-06-05
+242,43,Female,New York,Gold,2024-10-09
+243,47,Male,Chicago,Gold,2023-11-26
+244,62,Male,Miami,Silver,2024-08-10
+245,37,Female,Miami,Platinum,2023-03-17
+246,53,Female,Miami,Gold,2023-01-15
+247,70,Female,Miami,Platinum,2023-04-05
+248,37,Female,Dallas,Silver,2022-11-02
+249,46,Male,Miami,Silver,2021-06-01
+250,58,Male,Seattle,Platinum,2023-09-16
+251,54,Male,Dallas,Gold,2022-04-03
+252,36,Male,New York,Silver,2024-09-29
+253,18,Female,Dallas,Gold,2021-07-10
+254,68,Female,Seattle,Gold,2022-03-06
+255,47,Male,Seattle,Gold,2020-10-23
+256,44,Male,New York,Silver,2024-07-25
+257,34,Female,Chicago,Platinum,2024-05-29
+258,36,Female,Dallas,Platinum,2021-08-11
+259,65,Female,Dallas,Gold,2021-11-18
+260,67,Female,Chicago,Platinum,2024-08-26
+261,49,Female,Seattle,Silver,2020-05-11
+262,26,Male,Chicago,Silver,2024-02-04
+263,19,Male,Dallas,Silver,2022-09-09
+264,67,Male,Seattle,Platinum,2024-01-21
+265,29,Male,New York,Gold,2023-06-07
+266,21,Male,Miami,Gold,2021-12-11
+267,21,Male,Miami,Platinum,2022-05-09
+268,60,Male,Dallas,Platinum,2021-07-24
+269,29,Female,New York,Silver,2023-10-18
+270,59,Male,Seattle,Silver,2023-10-01
+271,46,Female,Miami,Gold,2025-01-27
+272,43,Male,Miami,Gold,2020-08-04
+273,27,Female,Miami,Platinum,2021-02-16
+274,28,Female,Seattle,Platinum,2024-12-23
+275,52,Female,Seattle,Platinum,2025-01-06
+276,69,Male,Miami,Gold,2024-10-29
+277,49,Male,New York,Platinum,2023-09-08
+278,40,Female,New York,Platinum,2023-07-04
+279,46,Female,New York,Silver,2022-11-06
+280,35,Female,Chicago,Gold,2020-10-30
+281,26,Female,Chicago,Gold,2023-02-22
+282,58,Male,Miami,Platinum,2022-11-09
+283,27,Female,Dallas,Gold,2022-09-10
+284,62,Female,Dallas,Gold,2021-03-15
+285,49,Female,Miami,Gold,2021-05-09
+286,39,Male,Miami,Silver,2024-02-22
+287,55,Female,Miami,Silver,2020-04-29
+288,50,Female,Miami,Platinum,2020-10-03
+289,59,Male,Dallas,Platinum,2022-10-08
+290,48,Female,New York,Silver,2024-12-22
+291,26,Female,Chicago,Silver,2023-07-25
+292,52,Male,Miami,Silver,2023-11-03
+293,25,Male,Miami,Silver,2022-10-27
+294,54,Female,Seattle,Gold,2020-01-09
+295,67,Male,Dallas,Platinum,2021-03-27
+296,23,Male,Dallas,Platinum,2023-07-05
+297,39,Female,Miami,Platinum,2022-11-27
+298,42,Male,New York,Gold,2021-12-11
+299,26,Male,Dallas,Silver,2023-10-27
+300,54,Male,Dallas,Silver,2020-07-07
+301,64,Male,Dallas,Gold,2021-05-24
+302,35,Male,Dallas,Silver,2020-06-09
+303,26,Female,Dallas,Platinum,2023-07-31
+304,62,Male,New York,Platinum,2021-11-04
+305,35,Male,Miami,Gold,2025-05-17
+306,25,Female,Chicago,Platinum,2025-03-13
+307,35,Female,New York,Platinum,2023-03-26
+308,57,Female,Miami,Gold,2023-01-02
+309,43,Female,Chicago,Platinum,2021-09-11
+310,53,Male,New York,Platinum,2022-11-07
+311,25,Male,Chicago,Silver,2025-01-11
+312,45,Female,Miami,Silver,2021-05-27
+313,52,Female,Miami,Gold,2022-08-27
+314,26,Female,New York,Platinum,2022-02-03
+315,22,Female,Miami,Platinum,2024-09-24
+316,69,Male,Miami,Gold,2022-07-01
+317,61,Male,Chicago,Silver,2025-02-13
+318,55,Male,Chicago,Gold,2024-09-19
+319,69,Female,Dallas,Gold,2020-11-23
+320,27,Female,Seattle,Gold,2020-08-29
+321,56,Male,Dallas,Gold,2023-09-27
+322,61,Male,Miami,Silver,2025-02-26
+323,70,Male,Seattle,Platinum,2023-02-24
+324,24,Female,New York,Gold,2023-05-10
+325,61,Female,Dallas,Gold,2022-04-16
+326,43,Female,New York,Silver,2022-08-22
+327,67,Male,New York,Silver,2024-08-30
+328,25,Male,Miami,Platinum,2024-04-12
+329,40,Female,Miami,Platinum,2021-12-30
+330,69,Female,Chicago,Platinum,2021-05-06
+331,24,Female,Chicago,Silver,2024-05-09
+332,20,Female,Seattle,Platinum,2021-12-10
+333,34,Male,Miami,Gold,2022-04-29
+334,42,Female,Dallas,Gold,2022-06-22
+335,69,Male,Miami,Platinum,2020-10-22
+336,21,Female,New York,Platinum,2020-12-18
+337,52,Female,Dallas,Platinum,2020-09-05
+338,55,Male,Seattle,Silver,2022-02-23
+339,58,Male,Seattle,Platinum,2021-04-11
+340,24,Male,Dallas,Gold,2023-09-06
+341,33,Female,Seattle,Gold,2022-10-05
+342,59,Male,Seattle,Gold,2022-03-27
+343,52,Male,Miami,Gold,2025-03-13
+344,35,Male,Chicago,Silver,2022-02-09
+345,44,Male,New York,Platinum,2020-06-01
+346,29,Female,Seattle,Platinum,2022-10-25
+347,69,Female,Chicago,Silver,2025-06-13
+348,51,Male,Dallas,Silver,2022-08-09
+349,43,Male,Miami,Platinum,2022-03-11
+350,18,Male,Seattle,Silver,2023-09-18
+351,29,Female,Chicago,Silver,2024-05-06
+352,52,Male,Chicago,Gold,2023-04-13
+353,19,Male,Seattle,Silver,2024-06-14
+354,20,Male,Miami,Platinum,2023-06-07
+355,59,Male,Chicago,Gold,2024-05-15
+356,47,Male,Miami,Platinum,2020-04-09
+357,42,Male,Miami,Silver,2023-08-06
+358,70,Female,New York,Platinum,2021-05-04
+359,67,Male,New York,Gold,2022-08-13
+360,35,Female,Chicago,Platinum,2020-09-29
+361,53,Female,Miami,Platinum,2022-07-07
+362,50,Female,Miami,Silver,2023-12-02
+363,43,Female,Chicago,Gold,2024-07-31
+364,35,Female,Chicago,Gold,2023-03-06
+365,35,Male,Miami,Silver,2024-02-06
+366,41,Female,Chicago,Gold,2021-06-06
+367,34,Female,Seattle,Gold,2023-03-04
+368,47,Male,Chicago,Silver,2025-05-17
+369,34,Male,Chicago,Silver,2024-06-29
+370,55,Male,Miami,Gold,2024-01-06
+371,33,Male,Miami,Gold,2022-03-12
+372,63,Male,New York,Platinum,2025-03-29
+373,22,Male,New York,Silver,2024-03-08
+374,43,Female,Seattle,Platinum,2020-10-08
+375,55,Male,Miami,Platinum,2020-05-31
+376,33,Female,Chicago,Gold,2021-02-18
+377,60,Female,Dallas,Platinum,2024-09-13
+378,29,Male,Dallas,Platinum,2020-10-21
+379,40,Female,Miami,Gold,2020-06-30
+380,50,Female,Chicago,Platinum,2022-08-07
+381,19,Female,Miami,Platinum,2020-07-30
+382,57,Female,Seattle,Gold,2023-06-20
+383,21,Male,Dallas,Silver,2024-07-21
+384,26,Male,New York,Gold,2023-07-21
+385,55,Male,Chicago,Platinum,2022-11-05
+386,43,Male,Chicago,Gold,2023-09-15
+387,51,Male,Miami,Gold,2024-01-24
+388,18,Male,Chicago,Platinum,2022-02-13
+389,60,Female,Miami,Platinum,2021-04-17
+390,35,Male,Chicago,Platinum,2023-10-05
+391,53,Male,Seattle,Gold,2024-04-23
+392,60,Female,Seattle,Gold,2022-10-08
+393,24,Male,Chicago,Platinum,2020-02-02
+394,47,Male,Seattle,Silver,2022-03-17
+395,70,Female,Chicago,Silver,2020-06-06
+396,61,Male,Seattle,Gold,2021-01-21
+397,29,Male,Miami,Gold,2022-12-04
+398,41,Male,Chicago,Gold,2023-09-10
+399,55,Male,Dallas,Silver,2022-07-27
+400,20,Male,Chicago,Gold,2022-08-18
+401,20,Male,Miami,Gold,2020-07-07
+402,43,Female,Seattle,Gold,2025-01-28
+403,40,Female,New York,Platinum,2025-04-24
+404,48,Male,Seattle,Gold,2023-04-20
+405,65,Female,Chicago,Platinum,2023-04-21
+406,53,Female,New York,Platinum,2024-05-31
+407,68,Female,Seattle,Gold,2022-11-30
+408,68,Male,Miami,Platinum,2020-08-20
+409,20,Male,New York,Gold,2021-11-20
+410,41,Male,Dallas,Platinum,2020-05-31
+411,49,Male,Miami,Gold,2021-11-16
+412,50,Male,Chicago,Gold,2022-01-09
+413,31,Male,Miami,Silver,2023-04-22
+414,24,Female,Dallas,Platinum,2022-05-11
+415,70,Female,Dallas,Gold,2023-05-31
+416,41,Male,New York,Platinum,2021-05-20
+417,70,Female,Seattle,Platinum,2021-08-04
+418,54,Male,New York,Platinum,2020-12-14
+419,35,Female,New York,Silver,2021-08-01
+420,53,Female,Chicago,Silver,2020-07-21
+421,35,Female,New York,Platinum,2022-11-14
+422,37,Male,Miami,Silver,2023-02-01
+423,38,Female,Dallas,Platinum,2020-09-29
+424,20,Female,Dallas,Platinum,2020-03-17
+425,19,Female,Seattle,Platinum,2020-12-01
+426,53,Male,Miami,Platinum,2023-09-21
+427,58,Female,Chicago,Silver,2021-04-21
+428,25,Male,Miami,Platinum,2020-09-07
+429,64,Female,Seattle,Silver,2024-05-19
+430,21,Female,Seattle,Gold,2025-03-13
+431,57,Female,Chicago,Platinum,2020-01-20
+432,18,Female,New York,Silver,2021-06-02
+433,53,Male,New York,Silver,2024-04-15
+434,23,Male,New York,Platinum,2021-02-14
+435,31,Female,Dallas,Silver,2022-10-01
+436,50,Female,Dallas,Gold,2025-04-18
+437,59,Male,Chicago,Platinum,2021-01-06
+438,30,Female,Miami,Gold,2023-06-10
+439,48,Female,New York,Gold,2020-02-12
+440,24,Female,Miami,Gold,2021-11-25
+441,22,Female,Chicago,Platinum,2022-11-19
+442,69,Female,Miami,Platinum,2023-09-14
+443,53,Female,Miami,Platinum,2024-02-21
+444,54,Female,Miami,Gold,2020-12-04
+445,35,Female,Miami,Gold,2023-05-28
+446,52,Female,Dallas,Gold,2020-01-31
+447,56,Male,Seattle,Gold,2024-12-31
+448,40,Male,Miami,Gold,2021-03-04
+449,62,Female,Dallas,Platinum,2023-07-05
+450,27,Female,Seattle,Silver,2023-08-07
+451,25,Female,New York,Gold,2024-03-18
+452,52,Male,Dallas,Gold,2020-01-31
+453,38,Female,Dallas,Platinum,2024-12-03
+454,68,Male,Chicago,Platinum,2020-06-16
+455,39,Male,New York,Silver,2024-05-18
+456,62,Female,Seattle,Platinum,2021-11-28
+457,32,Male,Chicago,Platinum,2024-03-15
+458,54,Female,Dallas,Gold,2022-02-13
+459,44,Female,New York,Silver,2022-04-14
+460,32,Male,Miami,Silver,2023-07-13
+461,32,Male,Seattle,Gold,2021-03-06
+462,57,Male,Dallas,Platinum,2024-01-12
+463,41,Male,Dallas,Gold,2022-10-16
+464,28,Male,New York,Gold,2022-06-13
+465,53,Female,Miami,Gold,2021-10-12
+466,56,Male,Miami,Platinum,2021-08-21
+467,69,Female,Seattle,Silver,2024-09-20
+468,37,Male,Seattle,Silver,2022-10-23
+469,32,Female,Seattle,Gold,2024-05-25
+470,32,Male,New York,Platinum,2022-11-21
+471,50,Male,Chicago,Gold,2025-03-04
+472,21,Male,Chicago,Silver,2023-10-09
+473,21,Female,New York,Silver,2020-04-22
+474,18,Male,Miami,Gold,2021-11-12
+475,68,Male,Miami,Silver,2023-02-18
+476,31,Female,Chicago,Gold,2021-08-27
+477,55,Female,Chicago,Silver,2021-03-07
+478,43,Male,Chicago,Platinum,2023-12-05
+479,46,Male,Dallas,Gold,2022-04-13
+480,25,Male,Miami,Silver,2022-11-01
+481,58,Male,Chicago,Silver,2021-04-05
+482,29,Female,New York,Silver,2024-06-15
+483,38,Male,New York,Gold,2020-11-03
+484,32,Male,Dallas,Gold,2020-04-29
+485,55,Male,Seattle,Silver,2024-06-13
+486,32,Male,New York,Silver,2021-02-18
+487,21,Male,New York,Platinum,2021-03-26
+488,36,Female,Miami,Gold,2024-11-19
+489,33,Male,Dallas,Silver,2021-10-29
+490,40,Female,Seattle,Platinum,2024-11-11
+491,57,Female,Seattle,Silver,2022-05-22
+492,33,Female,Dallas,Silver,2023-05-23
+493,59,Male,Chicago,Silver,2024-05-01
+494,69,Female,Dallas,Platinum,2021-09-14
+495,39,Female,Seattle,Gold,2022-01-16
+496,40,Female,Seattle,Gold,2022-11-13
+497,19,Female,Chicago,Gold,2020-12-10
+498,37,Male,Miami,Platinum,2024-01-28
+499,27,Male,Seattle,Platinum,2023-07-08
+500,27,Male,Chicago,Silver,2024-07-22
+501,57,Female,Chicago,Gold,2023-08-14
+502,38,Male,Dallas,Gold,2021-09-26
+503,22,Female,Chicago,Platinum,2021-12-24
+504,46,Male,Chicago,Platinum,2021-10-08
+505,22,Male,Seattle,Platinum,2020-03-12
+506,20,Male,Dallas,Platinum,2025-05-25
+507,41,Female,Miami,Platinum,2024-07-17
+508,60,Female,Dallas,Platinum,2020-09-03
+509,29,Female,New York,Gold,2024-12-17
+510,57,Male,New York,Silver,2024-09-11
+511,37,Female,Miami,Gold,2021-05-15
+512,41,Male,Chicago,Gold,2023-11-29
+513,54,Male,Chicago,Silver,2025-06-21
+514,26,Male,Dallas,Platinum,2024-12-28
+515,35,Male,Chicago,Silver,2020-06-03
+516,37,Female,Seattle,Platinum,2022-11-14
+517,48,Male,Miami,Gold,2021-02-04
+518,45,Male,Dallas,Silver,2021-04-13
+519,66,Male,Chicago,Silver,2020-02-13
+520,28,Female,Dallas,Silver,2020-04-10
+521,68,Female,New York,Platinum,2021-05-01
+522,61,Male,New York,Gold,2023-08-11
+523,59,Male,Miami,Gold,2020-12-03
+524,54,Male,Chicago,Gold,2024-12-27
+525,48,Male,New York,Gold,2022-10-20
+526,53,Female,Chicago,Gold,2020-05-19
+527,50,Female,Miami,Platinum,2021-09-30
+528,56,Female,Miami,Silver,2022-09-11
+529,39,Female,New York,Gold,2020-05-08
+530,60,Female,New York,Silver,2025-02-03
+531,38,Male,Dallas,Gold,2024-09-04
+532,70,Female,Dallas,Gold,2022-05-01
+533,18,Female,Chicago,Platinum,2021-08-18
+534,21,Male,Seattle,Gold,2025-03-13
+535,57,Male,Dallas,Gold,2024-04-22
+536,59,Female,Miami,Gold,2023-05-31
+537,34,Male,Dallas,Silver,2021-12-21
+538,24,Female,Dallas,Platinum,2024-03-04
+539,54,Male,Seattle,Gold,2020-11-03
+540,48,Male,New York,Platinum,2023-08-03
+541,33,Male,New York,Silver,2022-11-29
+542,50,Female,Miami,Gold,2023-12-03
+543,38,Male,Miami,Platinum,2022-10-15
+544,43,Male,Seattle,Platinum,2024-01-23
+545,53,Female,Chicago,Platinum,2023-04-20
+546,41,Male,Dallas,Gold,2022-06-15
+547,33,Female,New York,Gold,2024-04-01
+548,40,Male,Chicago,Silver,2022-06-24
+549,20,Female,Miami,Gold,2025-06-09
+550,69,Male,Miami,Gold,2022-09-06
+551,18,Male,Miami,Silver,2022-06-28
+552,59,Male,Miami,Silver,2022-03-30
+553,47,Male,Dallas,Gold,2020-10-10
+554,28,Female,Chicago,Silver,2024-07-07
+555,65,Female,Chicago,Platinum,2023-12-18
+556,45,Female,Seattle,Platinum,2023-02-04
+557,37,Male,Miami,Platinum,2022-11-04
+558,37,Male,Dallas,Platinum,2020-11-12
+559,61,Male,Dallas,Silver,2022-05-21
+560,42,Male,Miami,Gold,2022-07-09
+561,70,Female,Dallas,Silver,2020-04-20
+562,23,Male,New York,Platinum,2022-03-04
+563,26,Female,Seattle,Silver,2022-08-30
+564,46,Male,Miami,Silver,2025-04-23
+565,55,Female,Seattle,Gold,2021-08-18
+566,40,Male,Miami,Gold,2021-01-04
+567,67,Male,Miami,Silver,2024-06-23
+568,60,Male,Miami,Silver,2022-07-01
+569,38,Female,Dallas,Platinum,2020-07-27
+570,42,Male,Seattle,Gold,2025-03-20
+571,44,Female,Dallas,Platinum,2020-07-15
+572,28,Female,Miami,Gold,2024-12-14
+573,57,Female,Miami,Silver,2021-10-16
+574,27,Female,Chicago,Platinum,2021-01-31
+575,32,Male,Seattle,Platinum,2024-12-01
+576,27,Male,New York,Gold,2020-04-17
+577,47,Male,Dallas,Platinum,2021-10-20
+578,35,Female,New York,Gold,2022-09-24
+579,63,Female,Dallas,Platinum,2023-12-29
+580,37,Female,Dallas,Gold,2020-12-22
+581,24,Female,Chicago,Gold,2020-11-10
+582,47,Male,Miami,Silver,2023-01-03
+583,38,Female,Seattle,Platinum,2023-02-18
+584,58,Female,Miami,Gold,2023-02-25
+585,55,Female,Dallas,Gold,2023-11-16
+586,43,Male,Chicago,Silver,2023-01-03
+587,30,Male,New York,Gold,2025-01-28
+588,57,Male,Dallas,Gold,2025-04-14
+589,19,Female,Dallas,Gold,2023-05-14
+590,56,Female,Chicago,Gold,2025-01-31
+591,32,Female,Seattle,Platinum,2022-02-26
+592,60,Male,New York,Gold,2023-08-26
+593,40,Male,Chicago,Silver,2024-08-12
+594,57,Female,Seattle,Silver,2023-12-26
+595,36,Male,Seattle,Silver,2024-07-13
+596,40,Male,Seattle,Silver,2020-08-16
+597,52,Male,Dallas,Silver,2022-02-08
+598,45,Female,Miami,Platinum,2025-04-18
+599,62,Female,Chicago,Silver,2020-11-20
+600,28,Male,Chicago,Silver,2022-06-24
+601,55,Male,Seattle,Silver,2024-10-06
+602,39,Female,Miami,Silver,2020-02-12
+603,40,Male,Chicago,Silver,2023-11-20
+604,49,Female,New York,Platinum,2020-07-02
+605,26,Female,Miami,Silver,2021-03-04
+606,41,Male,Dallas,Platinum,2021-12-14
+607,22,Female,Seattle,Silver,2022-12-19
+608,47,Male,Chicago,Silver,2023-11-12
+609,69,Male,Dallas,Silver,2021-06-30
+610,70,Male,New York,Silver,2024-07-23
+611,69,Male,Seattle,Gold,2020-08-02
+612,46,Female,Dallas,Silver,2022-06-02
+613,41,Female,Seattle,Gold,2022-06-12
+614,41,Male,Chicago,Silver,2020-10-23
+615,33,Male,New York,Silver,2023-10-03
+616,43,Female,Miami,Gold,2023-03-08
+617,24,Male,Chicago,Platinum,2020-01-16
+618,20,Female,Dallas,Gold,2020-09-28
+619,33,Female,Seattle,Gold,2023-04-13
+620,65,Male,Miami,Gold,2020-09-21
+621,62,Female,Miami,Silver,2021-12-16
+622,25,Male,New York,Gold,2025-05-01
+623,27,Male,Dallas,Silver,2020-11-04
+624,36,Male,Seattle,Platinum,2020-02-24
+625,48,Male,Miami,Gold,2020-07-07
+626,48,Male,Chicago,Platinum,2024-10-02
+627,61,Female,Miami,Platinum,2025-05-02
+628,44,Male,Miami,Gold,2022-09-05
+629,64,Female,Seattle,Silver,2020-05-17
+630,31,Female,New York,Silver,2021-12-27
+631,24,Male,New York,Platinum,2023-09-01
+632,55,Male,New York,Platinum,2022-06-03
+633,33,Male,Dallas,Gold,2023-06-06
+634,21,Female,Miami,Gold,2022-03-13
+635,58,Male,Miami,Silver,2021-07-20
+636,57,Female,Seattle,Silver,2021-07-04
+637,38,Female,Seattle,Platinum,2020-04-22
+638,35,Male,Seattle,Gold,2021-08-28
+639,55,Male,Dallas,Platinum,2025-06-16
+640,60,Female,Seattle,Platinum,2023-02-20
+641,56,Female,Seattle,Platinum,2021-03-27
+642,37,Male,New York,Silver,2022-10-07
+643,70,Male,Dallas,Gold,2024-09-27
+644,37,Female,Chicago,Silver,2022-10-24
+645,26,Female,New York,Gold,2022-08-19
+646,64,Female,Miami,Gold,2020-09-13
+647,63,Male,Miami,Silver,2024-04-25
+648,35,Male,Seattle,Gold,2020-01-25
+649,59,Female,Miami,Platinum,2020-02-14
+650,54,Female,New York,Silver,2023-11-04
+651,38,Female,New York,Platinum,2022-10-17
+652,51,Female,Miami,Platinum,2020-03-30
+653,30,Male,New York,Platinum,2020-08-26
+654,69,Male,New York,Platinum,2022-12-20
+655,37,Male,Chicago,Platinum,2020-11-03
+656,32,Male,New York,Platinum,2021-12-23
+657,62,Female,Dallas,Platinum,2020-10-02
+658,36,Male,New York,Platinum,2021-06-26
+659,21,Male,Seattle,Platinum,2025-05-30
+660,36,Female,Seattle,Gold,2024-09-17
+661,69,Male,Chicago,Silver,2024-04-21
+662,61,Male,Seattle,Gold,2021-12-27
+663,40,Male,Chicago,Silver,2021-04-14
+664,69,Male,Dallas,Silver,2024-11-11
+665,46,Female,Chicago,Silver,2021-06-11
+666,27,Female,New York,Gold,2023-11-03
+667,64,Male,Seattle,Gold,2021-06-21
+668,67,Female,Chicago,Silver,2023-11-13
+669,58,Female,New York,Gold,2022-07-25
+670,52,Male,Chicago,Silver,2024-10-21
+671,49,Male,Dallas,Platinum,2023-07-03
+672,45,Male,Miami,Gold,2020-07-20
+673,33,Male,Seattle,Platinum,2020-08-25
+674,29,Female,Dallas,Platinum,2023-08-10
+675,56,Female,Seattle,Platinum,2025-06-13
+676,44,Male,Seattle,Silver,2022-05-21
+677,26,Male,Dallas,Gold,2023-06-16
+678,45,Male,Chicago,Platinum,2021-07-09
+679,48,Female,Dallas,Platinum,2024-08-26
+680,67,Male,Dallas,Silver,2023-02-23
+681,63,Female,New York,Platinum,2023-09-15
+682,64,Male,Dallas,Gold,2021-06-26
+683,66,Male,Dallas,Silver,2024-07-02
+684,23,Female,Seattle,Silver,2022-09-07
+685,55,Male,Miami,Gold,2022-10-04
+686,69,Male,Miami,Silver,2022-02-09
+687,69,Male,Seattle,Platinum,2020-06-21
+688,33,Male,Seattle,Silver,2021-08-24
+689,57,Male,Dallas,Silver,2020-05-19
+690,22,Male,Miami,Gold,2021-12-26
+691,37,Male,Miami,Gold,2023-06-25
+692,40,Female,Chicago,Platinum,2021-12-28
+693,51,Male,Dallas,Platinum,2021-04-21
+694,33,Male,Dallas,Gold,2024-08-29
+695,52,Female,Dallas,Platinum,2020-01-10
+696,60,Female,Dallas,Platinum,2024-05-26
+697,32,Male,Chicago,Silver,2020-06-22
+698,34,Female,Chicago,Silver,2020-12-03
+699,70,Male,Dallas,Gold,2025-02-03
+700,63,Male,Chicago,Silver,2022-07-01
+701,31,Female,New York,Platinum,2025-01-10
+702,37,Male,Dallas,Platinum,2024-06-14
+703,59,Female,Dallas,Silver,2020-05-20
+704,22,Male,New York,Platinum,2022-08-07
+705,63,Female,New York,Platinum,2025-05-05
+706,28,Female,Seattle,Platinum,2020-08-12
+707,30,Male,Chicago,Gold,2021-03-14
+708,51,Female,Dallas,Gold,2025-02-28
+709,40,Female,Dallas,Silver,2020-02-29
+710,18,Female,New York,Silver,2020-06-06
+711,38,Female,Dallas,Silver,2021-05-20
+712,61,Male,Chicago,Silver,2021-02-02
+713,58,Male,Miami,Platinum,2023-11-06
+714,60,Male,Seattle,Platinum,2020-02-28
+715,53,Male,Seattle,Silver,2024-09-11
+716,52,Male,Chicago,Silver,2020-05-08
+717,19,Male,Dallas,Platinum,2020-06-22
+718,51,Female,Chicago,Gold,2020-01-17
+719,52,Female,Dallas,Gold,2023-01-16
+720,42,Female,Miami,Platinum,2022-12-28
+721,47,Female,New York,Silver,2024-04-04
+722,48,Female,Chicago,Platinum,2021-03-02
+723,51,Male,Miami,Silver,2024-09-29
+724,38,Male,Chicago,Gold,2022-03-23
+725,20,Female,Miami,Gold,2024-08-30
+726,50,Male,New York,Silver,2023-02-11
+727,44,Female,Miami,Gold,2023-04-27
+728,20,Male,Chicago,Gold,2023-12-17
+729,42,Female,Miami,Silver,2025-03-24
+730,54,Female,Chicago,Platinum,2022-12-02
+731,65,Male,Chicago,Silver,2021-03-07
+732,48,Male,New York,Platinum,2024-09-18
+733,43,Female,New York,Silver,2024-06-28
+734,24,Male,Miami,Gold,2022-08-30
+735,29,Male,Miami,Gold,2024-07-21
+736,60,Male,Seattle,Silver,2020-05-09
+737,26,Female,Miami,Gold,2022-10-07
+738,50,Female,Seattle,Platinum,2021-05-23
+739,46,Female,Seattle,Gold,2022-03-02
+740,69,Male,Seattle,Platinum,2024-11-07
+741,24,Male,Miami,Platinum,2024-07-07
+742,40,Male,New York,Gold,2024-11-27
+743,55,Female,New York,Gold,2025-01-18
+744,25,Male,Seattle,Gold,2022-11-14
+745,23,Female,New York,Gold,2024-09-21
+746,55,Female,Chicago,Platinum,2020-12-08
+747,45,Female,Seattle,Platinum,2021-05-13
+748,49,Female,New York,Platinum,2021-06-05
+749,25,Female,Dallas,Silver,2023-03-04
+750,23,Female,Miami,Platinum,2021-01-05
+751,32,Female,New York,Silver,2022-07-21
+752,41,Female,Seattle,Platinum,2022-08-24
+753,60,Male,Miami,Gold,2023-02-26
+754,23,Male,New York,Silver,2021-07-24
+755,20,Female,Dallas,Silver,2023-01-06
+756,48,Female,New York,Gold,2024-11-24
+757,39,Male,Chicago,Gold,2024-02-14
+758,63,Male,New York,Gold,2022-11-14
+759,30,Female,Chicago,Silver,2021-04-20
+760,23,Female,New York,Silver,2021-10-17
+761,18,Female,Miami,Platinum,2022-12-14
+762,28,Male,Seattle,Silver,2024-07-27
+763,34,Female,Chicago,Silver,2023-05-24
+764,63,Female,Seattle,Gold,2022-11-13
+765,45,Female,Seattle,Gold,2023-03-02
+766,19,Male,Seattle,Platinum,2024-03-15
+767,44,Male,Seattle,Silver,2024-09-06
+768,52,Male,Dallas,Gold,2024-03-12
+769,48,Female,Dallas,Platinum,2022-07-24
+770,43,Female,Dallas,Silver,2022-01-04
+771,52,Male,Dallas,Silver,2024-10-11
+772,60,Male,Dallas,Platinum,2024-11-30
+773,42,Male,Dallas,Platinum,2021-05-31
+774,49,Male,Chicago,Gold,2020-08-14
+775,32,Male,New York,Gold,2020-04-26
+776,29,Male,New York,Gold,2023-01-29
+777,64,Female,New York,Silver,2021-07-09
+778,21,Female,Chicago,Gold,2023-05-04
+779,46,Male,Dallas,Gold,2024-11-24
+780,42,Female,Dallas,Silver,2021-04-14
+781,70,Female,Miami,Gold,2022-05-25
+782,45,Female,Miami,Gold,2021-01-17
+783,27,Male,Dallas,Gold,2025-06-03
+784,42,Male,Miami,Gold,2023-03-25
+785,29,Male,New York,Platinum,2021-02-22
+786,48,Male,Dallas,Platinum,2022-12-16
+787,58,Male,Chicago,Gold,2020-12-17
+788,65,Male,Seattle,Gold,2022-09-28
+789,40,Male,Miami,Silver,2020-02-19
+790,41,Male,Chicago,Silver,2025-02-05
+791,43,Female,Miami,Platinum,2021-07-12
+792,45,Female,Seattle,Gold,2020-06-15
+793,55,Male,Chicago,Platinum,2024-03-01
+794,48,Male,New York,Silver,2020-05-13
+795,19,Male,Dallas,Silver,2024-01-15
+796,47,Female,Miami,Platinum,2021-07-09
+797,62,Female,Miami,Gold,2024-11-14
+798,24,Female,Seattle,Silver,2020-05-25
+799,64,Female,Chicago,Platinum,2023-05-21
+800,19,Female,New York,Gold,2021-12-07
+801,67,Male,Miami,Gold,2021-10-11
+802,55,Male,Miami,Gold,2025-02-26
+803,64,Female,New York,Platinum,2024-07-23
+804,61,Female,New York,Gold,2022-04-11
+805,65,Male,Miami,Silver,2020-01-24
+806,67,Female,Dallas,Silver,2022-04-08
+807,65,Male,Chicago,Gold,2022-11-23
+808,62,Female,Chicago,Platinum,2022-08-18
+809,64,Female,Miami,Platinum,2021-06-08
+810,65,Male,Seattle,Platinum,2025-04-09
+811,55,Female,Chicago,Gold,2020-12-14
+812,47,Female,Miami,Platinum,2025-01-16
+813,60,Male,Miami,Platinum,2020-06-10
+814,56,Female,Dallas,Gold,2022-09-28
+815,64,Male,Dallas,Silver,2024-09-20
+816,58,Female,Seattle,Gold,2020-09-12
+817,34,Male,New York,Platinum,2025-03-07
+818,68,Male,Seattle,Silver,2022-08-12
+819,33,Male,New York,Silver,2020-06-12
+820,24,Male,New York,Platinum,2023-09-08
+821,25,Male,Dallas,Gold,2020-10-27
+822,70,Female,New York,Silver,2024-09-21
+823,69,Female,Miami,Platinum,2024-08-09
+824,32,Male,Miami,Platinum,2022-09-29
+825,28,Female,Miami,Gold,2024-08-20
+826,50,Male,Dallas,Platinum,2024-10-19
+827,22,Male,New York,Platinum,2021-09-02
+828,24,Female,New York,Silver,2024-11-19
+829,60,Male,Dallas,Platinum,2021-09-16
+830,55,Female,Seattle,Gold,2020-08-28
+831,69,Male,Dallas,Platinum,2023-09-24
+832,67,Male,Miami,Platinum,2024-12-18
+833,65,Male,Dallas,Platinum,2022-07-03
+834,24,Female,Chicago,Gold,2020-08-21
+835,41,Female,Chicago,Gold,2025-03-03
+836,57,Male,Miami,Silver,2025-04-09
+837,57,Male,Chicago,Platinum,2024-09-16
+838,48,Female,Chicago,Gold,2023-10-02
+839,39,Female,Miami,Gold,2020-08-17
+840,34,Male,Miami,Gold,2024-01-09
+841,50,Female,Chicago,Silver,2021-04-14
+842,65,Male,Seattle,Gold,2021-06-09
+843,18,Female,Miami,Silver,2022-05-25
+844,66,Female,New York,Platinum,2024-06-25
+845,35,Male,Chicago,Silver,2022-05-22
+846,43,Male,New York,Platinum,2022-06-19
+847,70,Male,Chicago,Silver,2021-07-12
+848,41,Female,Dallas,Platinum,2021-05-30
+849,54,Male,New York,Silver,2021-06-10
+850,48,Male,Dallas,Silver,2025-02-05
+851,69,Male,Chicago,Gold,2023-08-09
+852,32,Male,Seattle,Platinum,2022-01-25
+853,62,Female,Chicago,Silver,2025-05-24
+854,18,Female,Dallas,Platinum,2021-11-06
+855,61,Female,Dallas,Platinum,2024-06-04
+856,62,Female,Seattle,Platinum,2021-07-18
+857,67,Female,Miami,Silver,2025-03-17
+858,69,Female,Chicago,Platinum,2022-08-24
+859,40,Female,New York,Silver,2023-05-02
+860,51,Male,Chicago,Platinum,2024-03-24
+861,32,Female,Dallas,Gold,2022-03-27
+862,57,Male,New York,Gold,2020-11-08
+863,64,Male,Seattle,Platinum,2025-03-26
+864,43,Female,New York,Gold,2025-02-21
+865,68,Male,Seattle,Silver,2023-09-05
+866,37,Male,Dallas,Gold,2024-06-01
+867,26,Female,Miami,Gold,2022-09-01
+868,26,Female,Dallas,Platinum,2021-10-19
+869,31,Female,New York,Gold,2022-10-25
+870,54,Female,Seattle,Gold,2021-06-25
+871,28,Female,Dallas,Gold,2025-06-18
+872,27,Female,Seattle,Platinum,2022-06-24
+873,60,Female,Chicago,Gold,2020-03-22
+874,23,Male,Dallas,Silver,2022-12-06
+875,65,Female,New York,Gold,2024-06-16
+876,24,Female,Chicago,Silver,2021-12-06
+877,33,Female,Miami,Gold,2025-04-04
+878,63,Male,Miami,Silver,2020-03-07
+879,39,Male,Seattle,Silver,2020-12-11
+880,69,Female,Miami,Silver,2024-10-11
+881,68,Female,Dallas,Platinum,2020-12-03
+882,20,Male,Seattle,Gold,2024-11-17
+883,52,Male,Seattle,Gold,2022-06-12
+884,21,Male,Dallas,Gold,2023-04-18
+885,54,Female,Miami,Silver,2023-04-01
+886,50,Male,Dallas,Platinum,2022-04-08
+887,59,Male,Chicago,Platinum,2025-04-24
+888,49,Male,Seattle,Platinum,2022-03-20
+889,31,Female,New York,Gold,2020-03-07
+890,34,Male,Chicago,Platinum,2021-06-01
+891,66,Female,Seattle,Gold,2020-07-24
+892,37,Male,Seattle,Silver,2024-07-30
+893,34,Male,Chicago,Silver,2023-10-10
+894,43,Male,Miami,Platinum,2021-08-31
+895,18,Female,Dallas,Silver,2021-06-09
+896,28,Male,New York,Silver,2024-05-17
+897,62,Female,Miami,Platinum,2024-01-19
+898,19,Male,Seattle,Platinum,2020-02-06
+899,60,Male,Miami,Gold,2024-04-14
+900,57,Male,New York,Platinum,2025-02-21
+901,67,Female,Seattle,Silver,2020-11-21
+902,32,Male,Miami,Gold,2023-01-10
+903,52,Female,Dallas,Silver,2022-11-04
+904,56,Female,Seattle,Silver,2023-10-06
+905,36,Female,Chicago,Platinum,2023-07-19
+906,35,Female,Miami,Platinum,2021-07-18
+907,50,Male,Chicago,Platinum,2023-09-17
+908,19,Male,Chicago,Gold,2020-12-11
+909,65,Female,Chicago,Silver,2023-08-31
+910,59,Male,Miami,Silver,2022-03-05
+911,34,Female,Chicago,Platinum,2021-06-19
+912,42,Male,New York,Silver,2024-01-13
+913,49,Female,Dallas,Gold,2022-04-10
+914,67,Female,Miami,Silver,2021-08-09
+915,35,Female,Seattle,Platinum,2020-11-08
+916,68,Female,Chicago,Gold,2020-05-05
+917,22,Female,New York,Gold,2021-03-02
+918,47,Female,New York,Gold,2021-11-21
+919,18,Female,Seattle,Gold,2022-05-17
+920,66,Female,Miami,Platinum,2022-09-22
+921,66,Male,Seattle,Gold,2021-08-15
+922,24,Male,Chicago,Platinum,2021-11-21
+923,41,Female,Seattle,Silver,2024-09-15
+924,42,Male,Seattle,Platinum,2021-02-15
+925,25,Male,Seattle,Gold,2020-12-20
+926,61,Male,Chicago,Platinum,2020-07-15
+927,62,Female,Dallas,Platinum,2022-06-19
+928,69,Male,Seattle,Platinum,2025-04-14
+929,48,Male,New York,Platinum,2021-02-10
+930,61,Male,Chicago,Silver,2021-07-14
+931,53,Male,New York,Gold,2021-08-07
+932,31,Male,Dallas,Platinum,2023-10-21
+933,27,Male,New York,Platinum,2020-11-16
+934,55,Female,Dallas,Silver,2020-05-29
+935,30,Male,Miami,Gold,2021-03-19
+936,68,Female,Miami,Gold,2020-12-20
+937,56,Male,Seattle,Silver,2021-02-21
+938,22,Male,Chicago,Silver,2023-06-03
+939,57,Male,Miami,Gold,2025-06-01
+940,22,Female,New York,Gold,2022-12-17
+941,35,Male,Miami,Gold,2022-06-06
+942,68,Male,Chicago,Platinum,2023-04-21
+943,25,Female,Seattle,Gold,2021-04-03
+944,46,Female,Dallas,Platinum,2023-03-07
+945,29,Male,New York,Gold,2024-11-02
+946,57,Female,Chicago,Platinum,2024-01-14
+947,47,Female,Dallas,Silver,2022-07-25
+948,30,Female,Miami,Gold,2023-05-09
+949,31,Male,Miami,Silver,2021-08-01
+950,24,Male,Chicago,Gold,2022-11-14
+951,31,Female,Seattle,Platinum,2020-05-06
+952,42,Male,New York,Gold,2024-03-09
+953,37,Male,Seattle,Silver,2024-04-01
+954,47,Female,Seattle,Silver,2023-08-19
+955,24,Male,Miami,Silver,2024-02-22
+956,42,Male,New York,Platinum,2022-10-12
+957,49,Female,Miami,Gold,2020-02-28
+958,59,Female,Seattle,Silver,2022-11-26
+959,18,Male,Chicago,Platinum,2024-09-12
+960,38,Male,Chicago,Gold,2024-09-18
+961,62,Male,Seattle,Silver,2020-10-21
+962,34,Female,New York,Platinum,2020-09-09
+963,22,Female,Seattle,Gold,2021-03-07
+964,20,Female,Chicago,Gold,2025-05-07
+965,30,Male,Chicago,Silver,2022-12-21
+966,60,Female,Dallas,Gold,2024-08-18
+967,69,Male,Chicago,Gold,2020-09-09
+968,67,Male,New York,Platinum,2021-10-07
+969,23,Male,Seattle,Platinum,2020-06-13
+970,44,Male,Miami,Silver,2024-06-08
+971,63,Male,Dallas,Platinum,2025-03-23
+972,65,Female,Seattle,Platinum,2021-01-25
+973,43,Female,New York,Gold,2022-01-19
+974,18,Female,Chicago,Platinum,2021-12-30
+975,41,Male,New York,Gold,2024-06-19
+976,66,Female,Dallas,Platinum,2020-12-20
+977,37,Male,Dallas,Gold,2021-03-09
+978,20,Male,New York,Platinum,2021-01-07
+979,56,Female,Dallas,Platinum,2020-03-16
+980,35,Female,New York,Platinum,2023-08-04
+981,33,Male,Chicago,Gold,2021-12-12
+982,35,Female,New York,Gold,2020-08-14
+983,37,Female,Chicago,Silver,2022-11-26
+984,55,Female,Miami,Gold,2020-01-22
+985,18,Male,Seattle,Platinum,2024-04-13
+986,27,Female,New York,Platinum,2025-03-16
+987,33,Male,Chicago,Gold,2020-10-11
+988,57,Female,Chicago,Silver,2020-10-07
+989,56,Male,Chicago,Silver,2023-05-05
+990,35,Female,Dallas,Silver,2025-01-14
+991,27,Male,New York,Gold,2025-04-13
+992,63,Female,Seattle,Gold,2023-11-03
+993,26,Female,Seattle,Gold,2024-05-24
+994,46,Female,Dallas,Gold,2021-01-15
+995,35,Male,Dallas,Silver,2023-11-24
+996,21,Female,New York,Silver,2020-06-11
+997,56,Female,New York,Platinum,2021-05-17
+998,26,Female,Miami,Gold,2021-03-31
+999,55,Female,Chicago,Platinum,2021-03-22
+1000,28,Male,Dallas,Gold,2020-06-25
