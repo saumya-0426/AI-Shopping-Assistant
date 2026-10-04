@@ -64,11 +64,10 @@ Smart Cart
     ↓
 Next.js Frontend
 
-
 The LLM extracts the shopping intent, budget, delivery requirements, and brand exclusions. Sentence Transformers generate product embeddings for semantic search, while the reorder engine analyzes purchase frequency and recency.
 
 For mixed searches, both discovery and reorder results are combined and ranked.
-
+```
 ## Main Functionality
 
 - Natural-language product search
@@ -96,7 +95,7 @@ For mixed searches, both discovery and reorder results are combined and ranked.
 
 "Find comfortable shoes under 500, deliver within 3 days, and don't show Brand 11"
 
-
+```
 ## Results
 
 The system successfully converts natural-language requests into structured queries and returns ranked products based on semantic relevance, purchase history, and user constraints.
@@ -115,7 +114,7 @@ AI Score: 0.5746
 
 
 The system also generates a smart cart containing the recommended products and automatically calculates the total amount.
-
+```
 ## Outcomes
 
 The project successfully demonstrates an end-to-end personalized shopping workflow:
